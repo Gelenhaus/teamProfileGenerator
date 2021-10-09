@@ -1,0 +1,25 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Making a team generator project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gelenhaus/teamProfileGenerator.git"
+  },
+  "author": "Gerrit Elenbaas",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Gelenhaus/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/Gelenhaus/teamProfileGenerator#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
